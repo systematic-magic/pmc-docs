@@ -12,6 +12,6 @@ Welcome to PMC Corrections documents's documentation!
    keywords
    dates
    references
-   
+   citation-data
 
 
