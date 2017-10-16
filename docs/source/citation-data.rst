@@ -7,8 +7,8 @@ Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 2.Check that journal citation-data has the following elements in this order:
 JournalTitle. year; volume: pages. DOI.
 
-.. image:: /_static/pic16_citation_data.png
-   :alt: Max number of authors
+.. image:: /_static/pic16_citaiton_data.png
+   :alt: Citation-Data format
 
 - JournalTitle should be followed by dot (.)
 
@@ -36,7 +36,7 @@ JournalTitle. year; volume: pages. DOI.
 
 
 .. image:: /_static/pic17_cit_dat_ahead_of_print.png
-   :alt: Max number of authors
+   :alt: Ahead of Print
 
 Check whether those references were moved from Advanced Publications section to the specific issue and have full-citation data available.
 
@@ -45,7 +45,7 @@ Check whether those references were moved from Advanced Publications section to 
 - Check whether article page contains full citation-data (year; volume: pages).
 
 .. image:: /_static/pic18_cit_dat_check.png
-   :alt: Max number of authors
+   :alt: Check the original article
 
 
 - If full citation-data is not present on article page, then leave references as it is. No action is necessary.
@@ -53,4 +53,5 @@ Check whether those references were moved from Advanced Publications section to 
 - If full citation-data is present, then suggest correction to include full citation-data to the reference.
 
 .. image:: /_static/pic19_cit_dat_corrections.png
-   :alt: Max number of authors
+   :alt: Ahead of print corrections
+   
