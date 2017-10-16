@@ -104,14 +104,11 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 | Neuroscience	              | Neuroscience | 
 +-----------------------------+--------------+ 
 | Immunology	              | Immunology   | 
-+-----------------------------+--------------+
-
-
-
-
-::
-   
-
++-----------------------------+--------------+::
+	
+	
+	
+	
 
 
 .. _dates_research_papers:
@@ -119,7 +116,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 5. Dates
 --------
 
-5.1. Check that `Dates` section has titles “Received:”, “Accepted:”, “Published:” (start with capital letter and followed by colon (“:”))
+5.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (start with capital letter and followed by colon (“:”))
 
 5.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 01, 2017, April 12, 2016, December 31, 2015, etc.)
