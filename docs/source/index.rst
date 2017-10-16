@@ -1,7 +1,3 @@
-.. PMC Corrections documents documentation master file, created by
-   sphinx-quickstart on Mon Oct 16 15:51:05 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Welcome to PMC Corrections documents's documentation!
 =====================================================
@@ -15,6 +11,6 @@ Welcome to PMC Corrections documents's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
+* :ref:`Articles_html`
 * :ref:`modindex`
 * :ref:`search`
