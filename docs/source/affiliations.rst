@@ -19,9 +19,9 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 6. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
-.. image:: /_static/pic2_ref_format.png
-   :target: ../../_static/pic2_ref_format.png
-   :alt: Reference format
+.. image:: /_static/pic2_aff_format.png
+   :target: ../../_static/pic2_aff_format.png
+   :alt: Affiliation format
 
 
 7. Check that each affiliation number has only one complete affiliation. One affiliation – one number.
