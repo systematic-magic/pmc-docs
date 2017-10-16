@@ -4,9 +4,9 @@ Welcome to PMC Corrections documents's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: ALL PAPERS (except Editorials and News):
 
-   Articles_html
+   tile_front_matter
    affiliations
    correspondence
    keywords
