@@ -125,5 +125,5 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 5.4. Check that Received date is older than Accepted date, and Accepted date is older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
 
-.. tip:: Pay attention to years.
+.. note:: Pay attention to years.
 
