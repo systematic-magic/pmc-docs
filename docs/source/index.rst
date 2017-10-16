@@ -7,5 +7,6 @@ Welcome to PMC Corrections documents's documentation!
    :caption: Contents:
 
    Articles_html
+   affiliations
 
 
