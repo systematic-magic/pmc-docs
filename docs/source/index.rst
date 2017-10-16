@@ -8,6 +8,6 @@ Welcome to PMC Corrections documents's documentation!
 
    Articles_html
    affiliations
-   corresondence
+   correspondence
 
 
