@@ -7,10 +7,6 @@ Welcome to PMC Corrections documents's documentation!
    :caption: ALL PAPERS (except Editorials & News):
 
    title_front_matter
-   affiliations
-   correspondence
-   keywords
-   dates
    references
    citation-data
 
