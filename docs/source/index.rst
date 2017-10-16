@@ -10,5 +10,6 @@ Welcome to PMC Corrections documents's documentation!
    affiliations
    correspondence
    keywords
+   dates
 
 
