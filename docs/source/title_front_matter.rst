@@ -1,7 +1,10 @@
+Title & Front Matter
+====================
+
 .. _title_html_research_papers:
 
 1. Title
-========
+--------
 
 a. Check title spelling.
 
@@ -10,7 +13,7 @@ b. Check that following Latin terms are written in italics: ``in vivo``, ``in vi
 .. _affiliations_research_papers:
 
 2. Affiliations
-===============
+---------------
 
 a. Check spelling of English words only
 
