@@ -8,22 +8,22 @@ Title & Front Matter
 
 1.1. Check title spelling.
 
-1.2. Check that following Latin terms are written in italics: **in vivo**, **in vitro**, **in utero**, **in situ**. For other Latin terms either italics or plain text is acceptable.
+1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*. For other Latin terms either italics or plain text is acceptable.
 
 .. _affiliations_research_papers:
 
 2. Affiliations
 ---------------
 
-a. Check spelling of English words only
+2.1. Check spelling of English words only
 
-b. Check that there are NO street addresses and house numbers included in affiliation
+2.2. Check that there are NO street addresses and house numbers included in affiliation
 
-c. Check that country and city names are present in affiliation
+2.3. Check that country and city names are present in affiliation
 
-d. Check that country and city names are NOT written in ALL CAPS (capital letters)
+2.4. Check that country and city names are NOT written in ALL CAPS (capital letters)
 
-e. Check that “Current\Present address” has a separate affiliation number and is followed by colon (“:”). One address - one affiliation number. 
+2.5. Check that “Current\Present address” has a separate affiliation number and is followed by colon (“:”). One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
