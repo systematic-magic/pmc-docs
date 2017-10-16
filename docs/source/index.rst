@@ -6,4 +6,15 @@
 Welcome to PMC Corrections documents's documentation!
 =====================================================
 
-Here we go!
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
