@@ -104,12 +104,11 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 | Neuroscience	              | Neuroscience | 
 +-----------------------------+--------------+ 
 | Immunology	              | Immunology   | 
-+-----------------------------+--------------+::
-	
-	
-	
-	
-
++-----------------------------+--------------+
+::
+		
+		
+..
 
 .. _dates_research_papers:
 
