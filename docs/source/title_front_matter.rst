@@ -8,7 +8,7 @@ Title & Front Matter
 
 a. Check title spelling.
 
-b. Check that following Latin terms are written in italics: ``in vivo``, ``in vitro``, ``in utero``, ``in situ``. For other Latin terms either italics or plain text is acceptable.
+b. Check that following Latin terms are written in italics: **in vivo**, **in vitro**, **in utero**, **in situ**. For other Latin terms either italics or plain text is acceptable.
 
 .. _affiliations_research_papers:
 
@@ -28,13 +28,11 @@ e. Check that “Current\Present address” has a separate affiliation number an
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
 .. image:: /_static/pic1_curr_pres_address.png
-   :target: ../../_static/pic1_curr_pres_address.png
    :alt: Current/Present address
 
 f. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/pic2_aff_format.png
-   :target: ../../_static/pic2_aff_format.png
    :alt: Affiliation format
 
 
