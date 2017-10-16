@@ -6,9 +6,9 @@ Title & Front Matter
 1. Title
 --------
 
-a. Check title spelling.
+1.1. Check title spelling.
 
-b. Check that following Latin terms are written in italics: **in vivo**, **in vitro**, **in utero**, **in situ**. For other Latin terms either italics or plain text is acceptable.
+1.2. Check that following Latin terms are written in italics: **in vivo**, **in vitro**, **in utero**, **in situ**. For other Latin terms either italics or plain text is acceptable.
 
 .. _affiliations_research_papers:
 
