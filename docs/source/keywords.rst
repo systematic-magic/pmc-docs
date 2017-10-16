@@ -20,13 +20,18 @@
 If article belongs to Special Section, then in addition to 5 general keywords article must have ALL special-section-related keywords. Corresponding keywords you can find in the table below. 
 
 
-===================================  =============== 
-            Section                     Keyword 
------------------------------------  ---------------  
-Pathology   						  Pathology     
-Chromosome                            Chromosome
-Gerotarget (Focus on Aging)			  Gerotarget
-Autophagy							  Autophagy
-Neuroscience						  Neuroscience
-Immunology							  Immunology
-===================================  =============== 
++----------------------------------+-----------------+
+|             Section              |      Keywords   |
++==================================+=================+
+| Pathology   					   | Pathology       |
++----------------------------------+-----------------+
+| Chromosome                       | Chromosome      |
++----------------------------------+-----------------+
+| Gerotarget (Focus on Aging)	   | Gerotarget      |
++----------------------------------+-----------------+
+| Autophagy						   | Autophagy       |
++----------------------------------+-----------------+
+| Neuroscience					   | Neuroscience    |
++----------------------------------+-----------------+
+| Immunology					   | Immunology      |
++----------------------------------+-----------------+
