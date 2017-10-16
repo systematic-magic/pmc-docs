@@ -6,11 +6,6 @@ Welcome to PMC Corrections documents's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Articles_html
 
 
-Indices and tables
-==================
-
-* :ref:`Articles_html`
-* :ref:`modindex`
-* :ref:`search`
