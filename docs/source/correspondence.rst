@@ -1,4 +1,4 @@
-2. Correspondence
+3. Correspondence
 =================
 
 1. Check that correspondence section has a title “Correspondence:” (starts with capital letter and followed by colon (“:”))

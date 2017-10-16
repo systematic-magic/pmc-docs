@@ -9,5 +9,6 @@ Welcome to PMC Corrections documents's documentation!
    Articles_html
    affiliations
    correspondence
+   keywords
 
 
