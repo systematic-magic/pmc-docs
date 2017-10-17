@@ -1,5 +1,5 @@
-Title, Front Matter and References
-==================================
+Article Title and Copyright 
+===========================
 
 
 1. Article Title
