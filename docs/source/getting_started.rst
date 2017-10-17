@@ -23,3 +23,5 @@ Below we will show you how to know the group article belongs to:
 - If you see there "News" or "Editorials", then go :ref:`here<title_editorials_news>` to check review instructions.
 
 - If you see there something else (NOT "News" or "Editorials"), then go :ref:`here<title_research_papers>`.
+|
+|
