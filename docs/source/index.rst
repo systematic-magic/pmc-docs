@@ -1,6 +1,11 @@
 
 Welcome to PMC Corrections documentation!
-=====================================================
+=========================================
+
+.. toctree::
+   
+   getting_started
+
 
 .. toctree::
    :maxdepth: 2
