@@ -1,9 +1,8 @@
-####
 HTML
-####
+====
 
 .. rubric:: Article Title
-
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _title_html_research_papers:
 
