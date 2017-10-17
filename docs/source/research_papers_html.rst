@@ -9,7 +9,7 @@ HTML: All Papers (except Editorials and News)
 
 1.1. Check title spelling.
 
-1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*.
+1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*. |br|
 For other Latin terms either italics or plain text is acceptable.
 
 |
@@ -260,3 +260,7 @@ Check whether those references were moved from Advanced Publications section to 
 .. image:: /_static/pic19_cit_dat_corrections.png
    :alt: Ahead of print corrections
    
+
+.. |br| raw:: html
+
+   <br />
