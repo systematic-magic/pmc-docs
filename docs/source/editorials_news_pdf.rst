@@ -1,3 +1,4 @@
+.. _title_editorials_news:
 
 Title, Front Matter and References
 ==================================

@@ -1,3 +1,4 @@
+.. _title_research_papers:
 
 Title, Front Matter and References
 ==================================
