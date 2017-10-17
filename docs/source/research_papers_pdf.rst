@@ -12,7 +12,7 @@ PDF: All Papers (except Editorials and News)
 2. Copyright string
 -------------------
 
-2.1. Check that copyright sting has the following format:
+2.1. Check that copyright sting has the following format: |br|
 LastName_of_FirstAuthor et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
 
 2.2. Check that LastName_of_FirstAuthor matches last name of the first author in the Author List.
@@ -22,6 +22,11 @@ LastName_of_FirstAuthor et al. This is an open-access article distributed under 
 
 2.3. Check that there is et al. after LastName_of_FirstAuthor.
 
-2.4. Check that License text exactly matches the following:
+2.4. Check that License text exactly matches the following: |br|
 This is an open-access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
 
+
+
+.. |br| raw:: html
+
+   <br />
