@@ -15,6 +15,7 @@ For other Latin terms either italics or plain text is acceptable.
 .. image:: /_static/pic_head_front_matter.png
    :alt: Current/Present address
    :height: 32px
+   :width: 80px
            
 
 2. Affiliations
