@@ -1,5 +1,5 @@
-Title & Front Matter
-====================
+Title, Front Matter and references
+==================================
 
 .. _title_html_research_papers:
 
@@ -13,6 +13,7 @@ For other Latin terms either italics or plain text is acceptable.
 
 .. _affiliations_research_papers:
 
+|
 2. Affiliations
 ---------------
 
@@ -46,6 +47,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. image:: /_static/pic3_author_notes.png
    :alt: Author Notes
 
+|
 .. _correspondece_research_papers:
 
 3. Correspondence
@@ -67,7 +69,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. image:: /_static/pic5_corresp_auth_match.png
    :alt: Correspondence author match
 
-
+|
 .. _keywords_research_papers:
 
 4. Keywords
@@ -126,3 +128,13 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 .. note:: Pay attention to years.
 
+|
+.. _references_research_papers:
+
+References
+==========
+
+.. _author_list_research_papers:
+
+6. Author List (valid for all journals)
+---------------------------------------
