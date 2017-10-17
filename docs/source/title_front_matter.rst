@@ -1,8 +1,6 @@
-HTML
-====
 
 Article Title
--------------
+^^^^^^^^^^^^^
 
 .. _title_html_research_papers:
 
@@ -17,7 +15,7 @@ For other Latin terms either italics or plain text is acceptable.
 |
 
 Front Matter
-------------
+^^^^^^^^^^^^
 
 .. _affiliations_research_papers:
 
