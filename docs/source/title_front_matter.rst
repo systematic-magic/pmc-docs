@@ -1,6 +1,6 @@
 
 Article Title
--------------
+=============
 
 
 1. Title
@@ -14,7 +14,7 @@ For other Latin terms either italics or plain text is acceptable.
 |
 
 Front Matter
-------------
+============
 
 2. Affiliations
 ---------------
@@ -133,7 +133,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 |
 
 References
-----------
+==========
 
 6. Author List (valid for all journals)
 ---------------------------------------
