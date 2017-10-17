@@ -1,8 +1,8 @@
 HTML
 ====
 
-.. rubric:: Article Title
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Article Title
+-------------
 
 .. _title_html_research_papers:
 
@@ -16,7 +16,8 @@ For other Latin terms either italics or plain text is acceptable.
 
 |
 
-.. rubric:: Front Matter
+Front Matter
+------------
 
 .. _affiliations_research_papers:
 
@@ -136,8 +137,8 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 |
 
-.. rubric:: References
-
+References
+----------
 
 .. _author_list_research_papers:
 
