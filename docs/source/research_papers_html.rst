@@ -9,8 +9,8 @@ HTML: All Papers (except Editorials and News)
 
 1.1. Check title spelling.
 
-|1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*. 
-|For other Latin terms either italics or plain text is acceptable.
+| 1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*. 
+| For other Latin terms either italics or plain text is acceptable.
 
 |
 .. image:: /_static/pic_head_front_matter.png
@@ -148,8 +148,8 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 6. Author List (applicable to all journals)
 --------------------------------------------
 
-.. important::
-This section contains checks which are applicable to the references to all journals (including in-house ones).
+.. IMPORTANT::
+   This section contains checks which are applicable to the references to all journals (including in-house ones).
 
 
 6.1. Check that author names in the List of Authors are in-line with the following format:
