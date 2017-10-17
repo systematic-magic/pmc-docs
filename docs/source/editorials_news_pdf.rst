@@ -10,8 +10,7 @@ PDF: Editorials and News only
 1.1. Check title spelling.
 
 1.2. Check that title of in-house journal is written correctly: 
-Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
-Check that there is only one author name in reference followed by comma (,) et al and dot (.)
+Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer.
 
 2. References
 -------------
@@ -33,13 +32,12 @@ LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 
 - LastName can include name-related prepositions starting with either upper- or lowercase letter: van der Ent FW, Van den Brandt PA
 
-- LastName can be compound and separated by hyphen or space:
-Garcia-Closas M, Gomes Jimenes FJ
+- LastName can be compound and separated by hyphen or space: Garcia-Closas M, Gomes Jimenes FJ
 
 - LastName can have prefixes: McCann MH, O’Kelly M
 
-- LastName can be a mononym (i.e. have no initials): Baoluri, Wurenqimuge, Agudam.
-Check all mononyms to be “true” mononyms (check PubMed site)
+- LastName can be a mononym (i.e. have no initials): Baoluri, Wurenqimuge, Agudam. 
+ Check all mononyms to be “true” mononyms (check PubMed site)
 
 - LastName can have suffixes. Check that suffix is separated from initials by space: Rowland KM Jr, Short GF 3d
 
@@ -53,16 +51,23 @@ JournalTitle. year; volume: pages. DOI.
 
 - JournalTitle should be followed by dot (.)
 
+
 - Year should be followed by semicolon (;)
+
 
 - Volume should be followed by colon (:)
 
+
 - Page numbers should be followed by dot (.)
+
 
 - Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
 
+
 - Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed.
 
+
 - DOI is mandatory only for in-house journals and optional for the rest.
+
 
 - Both DOI formats (with https:// or without) are allowed. Dot (.) is not mandatory at the end of DOI.
