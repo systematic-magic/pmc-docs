@@ -1,5 +1,5 @@
-All Papers (except Editorials and News)
-=======================================
+PDF: All Papers (except Editorials and News)
+============================================
 
 
 1. Article Title

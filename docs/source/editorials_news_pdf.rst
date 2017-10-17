@@ -1,7 +1,7 @@
 .. _title_editorials_news:
 
-Editorials and News only
-========================
+PDF: Editorials and News only
+=============================
 
 
 1. Title

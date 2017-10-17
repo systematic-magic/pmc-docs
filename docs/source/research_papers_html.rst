@@ -1,7 +1,7 @@
 .. _title_research_papers:
 
-All Papers (except Editorials and News)
-=======================================
+HTML: All Papers (except Editorials and News)
+=============================================
 
 
 1. Title
