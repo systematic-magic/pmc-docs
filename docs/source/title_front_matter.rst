@@ -1,4 +1,4 @@
-Title, Front Matter and references
+Title, Front Matter and References
 ==================================
 
 .. _title_html_research_papers:
@@ -11,15 +11,15 @@ Title, Front Matter and references
 1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*. 
 For other Latin terms either italics or plain text is acceptable.
 
-
 |
-.. _affiliations_research_papers:
 
 Front Matter
-------------
+============
+
+.. _affiliations_research_papers:
 
 2. Affiliations
-^^^^^^^^^^^^^^^^^
+---------------
 
 2.1. Check spelling of English words only
 
@@ -55,7 +55,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. _correspondece_research_papers:
 
 3. Correspondence
-^^^^^^^^^^^^^^^^^
+-----------------
 
 3.1. Check that correspondence section has a title “Correspondence:” (starts with capital letter and followed by colon (“:”))
 
@@ -77,7 +77,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. _keywords_research_papers:
 
 4. Keywords
-^^^^^^^^^^^
+-----------
 
 4.1. Check that Keywords section has a title “Keywords:” (starts with capital letter and followed by colon (“:”))
 
@@ -116,7 +116,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 .. _dates_research_papers:
 
 5. Dates
-^^^^^^^^
+--------
 
 5.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (start with capital letter and followed by colon (“:”))
 
@@ -133,12 +133,58 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 .. note:: Pay attention to years.
 
 |
-.. _references_research_papers:
 
 References
-----------
+==========
 
 .. _author_list_research_papers:
 
 6. Author List (valid for all journals)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------
+
+6.1. Check that author names in the List of Authors are in-line with the following format:
+LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
+
+.. image:: /_static/pic9_author_name_format.png
+   :alt: Author Names format
+
+6.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
+
+6.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
+
+6.4. Check that List of Authors contains no more than either:
+
+- 13 authors followed by “et al.”  OR
+
+- 14 authors
+
+.. image:: /_static/pic10_author_number.png
+   :alt: Max number of authors
+
+
+.. image:: /_static/pic11_author_etal_number.png
+   :alt: Max number of authors followed by et al
+
+6.5. Check that authors are separated by comma (,) followed by space.
+
+6.6. Check that et al is separated from List of Authors by comma (,)
+
+6.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
+
+6.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
+
+6.9. If Group Authorship follows List of Authors, check whether it is separated either by comma (,) or semicolon (;). Group Authorship is not counted as author and is not part of List of Authors quota.
+
+
+.. image:: /_static/pic12_group_authorship1.png
+   :alt: Group Authorship
+
+.. image:: /_static/pic13_group_authorship2.png
+   :alt: Group Authorship
+
+.. image:: /_static/pic14_group_authorship3.png
+   :alt: Group Authorship
+
+.. image:: /_static/pic15_group_authorship4.png
+   :alt: Group Authorship
+
