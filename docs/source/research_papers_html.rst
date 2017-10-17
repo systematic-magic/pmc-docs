@@ -151,16 +151,8 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 .. IMPORTANT::
    This section contains checks which are applicable to the references to all journals (including in-house ones).
 
-
-
-
-.. raw:: html
-  
-  <div>6.1. Check that author names in the List of Authors are in-line with the following format:</div>
-  <div style="font:bold 20px Helvetica;">LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)</div>
-
-
-
+6.1. Check that author names in the List of Authors are in-line with the following format:
+LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 
 
 .. image:: /_static/pic9_author_name_format.png
