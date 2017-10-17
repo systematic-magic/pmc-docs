@@ -9,9 +9,7 @@ PDF: Editorials and News only
 
 1.1. Check title spelling.
 
-1.2. Check that title of in-house journal is written correctly: 
-Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer.
-
+|
 2. References
 -------------
 
@@ -25,7 +23,7 @@ Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
    :alt: Editorials Author format
 
 
-2.3.	Check that author names in the references have the following format:
+2.3.	Check that author names in the references have the following format: |br|
 LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 
 - Check that initials have no more than 3 letters and have NO spaces or hyphens in-between: Rumi B, Jutten BC, Loo SCJ
@@ -40,7 +38,7 @@ LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 
 - LastName can have suffixes. Check that suffix is separated from initials by space: Rowland KM Jr, Short GF 3d
 
-2.4. Check that journal citation-data has the following elements in this order:
+2.4. Check that journal citation-data has the following elements in this order: |br|
 JournalTitle. year; volume: pages. DOI.
 
 
@@ -70,3 +68,8 @@ JournalTitle. year; volume: pages. DOI.
 
 
 - Both DOI formats (with https:// or without) are allowed. Dot (.) is not mandatory at the end of DOI.
+
+
+.. |br| raw:: html
+
+   <br />
