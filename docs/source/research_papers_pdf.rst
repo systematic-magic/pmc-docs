@@ -1,5 +1,5 @@
-Article Title and Copyright 
-===========================
+All Papers (except Editorials and News)
+=======================================
 
 
 1. Article Title
@@ -18,7 +18,7 @@ LastName_of_FirstAuthor et al. This is an open-access article distributed under 
 2.2. Check that LastName_of_FirstAuthor matches last name of the first author in the Author List.
 
 .. image:: /_static/pic_pdf_copyright.png
-   :alt: Current/Present address
+   :alt: Copyright string
 
 2.3. Check that there is et al. after LastName_of_FirstAuthor.
 

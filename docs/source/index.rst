@@ -11,7 +11,7 @@ Welcome to PMC Corrections documentation!
    :maxdepth: 2
    :caption: ALL PAPERS (except Editorials & News):
 
-   HTML <title_front_matter>
+   HTML <research_papers_html>
    PDF <research_papers_pdf>
 
 

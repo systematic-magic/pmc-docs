@@ -10,7 +10,7 @@ In this document we separate articles into two big groups:
 
 The scope of checks varies greatly between these two groups. And therefore, it is important to know which group you are dealing with when you are reviewing the article.
 
-Below we will show you how to know to which group the article in questions belongs:
+Below we will show you how to know the group article belongs to:
 
 1. Get to the article page.
 
