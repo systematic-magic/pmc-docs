@@ -12,7 +12,9 @@ HTML: All Papers (except Editorials and News)
 1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*.
 
 .. raw:: html
-   <br>For other Latin terms either italics or plain text is acceptable.
+   <br>
+
+For other Latin terms either italics or plain text is acceptable.
 
 |
 .. image:: /_static/pic_head_front_matter.png
