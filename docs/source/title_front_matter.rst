@@ -14,8 +14,8 @@ For other Latin terms either italics or plain text is acceptable.
 |
 .. image:: /_static/pic_head_front_matter.png
    :alt: Current/Present address
-   :height: 32px
-   :width: 80px
+   :height: 82px
+   :width: 340px
            
 
 2. Affiliations
@@ -136,6 +136,9 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 .. image:: /_static/pic_head_front_refernces.png
    :alt: Current/Present address
+   :height: 82px
+   :width: 312px
+   
 
 6. Author List (valid for all journals)
 ---------------------------------------
