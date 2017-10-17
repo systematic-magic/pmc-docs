@@ -31,7 +31,7 @@ For other Latin terms either italics or plain text is acceptable.
 
 2.4. Check that country and city names are NOT written in ALL CAPS (capital letters)
 
-2.5. Occasionally affiliations can contain “Current\Present address” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). One address - one affiliation number. 
+2.5. Occasionally affiliations can contain “Current/Present address” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
