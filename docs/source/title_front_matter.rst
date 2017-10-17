@@ -1,7 +1,7 @@
 .. _title_research_papers:
 
-Title, Front Matter and References
-==================================
+All Papers (except Editorials and News)
+=======================================
 
 
 1. Title
