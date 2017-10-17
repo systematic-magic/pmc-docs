@@ -31,7 +31,7 @@ For other Latin terms either italics or plain text is acceptable.
 
 2.4. Check that country and city names are NOT written in ALL CAPS (capital letters)
 
-2.5. Occasionally affiliations can contain “Current/Present address” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). One address - one affiliation number. 
+2.5. Occasionally affiliations can contain “Current/Present address” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
@@ -44,12 +44,12 @@ All acceptable combinations of “Current/Present address” are depicted on the
    :alt: Affiliation format
 
 
-2.7. Check that each affiliation number has only one complete affiliation. 
+2.7. Check that each affiliation number has only one complete affiliation. |br|
 One affiliation – one number.
 
 2.8. Check that first word of Author Notes starts with a capital letter.
 
-2.9. Check that Author Notes are preceded by a symbol (or group of symbols). 
+2.9. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
 Most used symbols are: \*, †, +, #, $,**,*** \
 
 .. image:: /_static/pic3_author_notes.png
@@ -151,7 +151,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 .. IMPORTANT::
    This section contains checks which are applicable to the references to all journals (including in-house ones).
 
-6.1. Check that author names in the List of Authors are in-line with the following format:
+6.1. Check that author names in the List of Authors are in-line with the following format: |br|
 LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 
 
@@ -209,7 +209,7 @@ LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 7.1. Check that title of in-house journal is written correctly: 
 Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
-7.2.Check that journal citation-data has the following elements in this order:
+7.2.Check that journal citation-data has the following elements in this order: |br|
 JournalTitle. year; volume: pages. DOI.
 
 .. image:: /_static/pic16_citaiton_data.png
