@@ -13,8 +13,7 @@ HTML: All Papers (except Editorials and News)
 
 .. raw:: html
    <br>
-
-For other Latin terms either italics or plain text is acceptable.
+   For other Latin terms either italics or plain text is acceptable.
 
 |
 .. image:: /_static/pic_head_front_matter.png
