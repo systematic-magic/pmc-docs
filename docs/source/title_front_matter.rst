@@ -16,6 +16,7 @@ For other Latin terms either italics or plain text is acceptable.
    :alt: Current/Present address
    :height: 82px
    :width: 340px
+   :scale: 50%
            
 
 2. Affiliations
@@ -138,6 +139,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
    :alt: Current/Present address
    :height: 82px
    :width: 312px
+   :scale: 50%
    
 
 6. Author List (valid for all journals)
