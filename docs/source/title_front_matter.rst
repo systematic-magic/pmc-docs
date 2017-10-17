@@ -1,8 +1,7 @@
 
 Article Title
-^^^^^^^^^^^^^
+-------------
 
-.. _title_html_research_papers:
 
 1. Title
 --------
@@ -15,9 +14,7 @@ For other Latin terms either italics or plain text is acceptable.
 |
 
 Front Matter
-^^^^^^^^^^^^
-
-.. _affiliations_research_papers:
+------------
 
 2. Affiliations
 ---------------
@@ -137,8 +134,6 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 References
 ----------
-
-.. _author_list_research_papers:
 
 6. Author List (valid for all journals)
 ---------------------------------------
