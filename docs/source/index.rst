@@ -10,3 +10,9 @@ Welcome to PMC Corrections documentation!
    PDF <research_papers_pdf>
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Editorials & News only:
+
+   PDF <editorials_news_pdf>
+
