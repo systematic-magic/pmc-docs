@@ -7,5 +7,6 @@ Welcome to PMC Corrections documentation!
    :caption: ALL PAPERS (except Editorials & News):
 
    HTML <title_front_matter>
+   PDF <research_papers_pdf>
 
 
