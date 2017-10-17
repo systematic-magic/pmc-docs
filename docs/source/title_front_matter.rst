@@ -11,11 +11,15 @@ Title, Front Matter and references
 1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*. 
 For other Latin terms either italics or plain text is acceptable.
 
-.. _affiliations_research_papers:
 
 |
+.. _affiliations_research_papers:
+
+Front Matter
+------------
+
 2. Affiliations
----------------
+^^^^^^^^^^^^^^^^^
 
 2.1. Check spelling of English words only
 
@@ -51,7 +55,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. _correspondece_research_papers:
 
 3. Correspondence
------------------
+^^^^^^^^^^^^^^^^^
 
 3.1. Check that correspondence section has a title “Correspondence:” (starts with capital letter and followed by colon (“:”))
 
@@ -73,7 +77,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. _keywords_research_papers:
 
 4. Keywords
------------
+^^^^^^^^^^^
 
 4.1. Check that Keywords section has a title “Keywords:” (starts with capital letter and followed by colon (“:”))
 
@@ -112,7 +116,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 .. _dates_research_papers:
 
 5. Dates
---------
+^^^^^^^^
 
 5.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (start with capital letter and followed by colon (“:”))
 
@@ -132,9 +136,9 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 .. _references_research_papers:
 
 References
-==========
+----------
 
 .. _author_list_research_papers:
 
 6. Author List (valid for all journals)
----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
