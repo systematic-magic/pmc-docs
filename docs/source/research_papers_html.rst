@@ -153,7 +153,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 
 6.1. Check that author names in the List of Authors are in-line with the following format:
-`LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)`
+*LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)*
 
 .. image:: /_static/pic9_author_name_format.png
    :alt: Author Names format
