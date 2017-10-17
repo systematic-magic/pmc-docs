@@ -1,6 +1,6 @@
 
-Article Title
-=============
+Title, Front Matter and References
+==================================
 
 
 1. Title
@@ -12,9 +12,8 @@ Article Title
 For other Latin terms either italics or plain text is acceptable.
 
 |
-
-Front Matter
-============
+.. image:: /_static/pic_head_front_matter.png
+   :alt: Current/Present address
 
 2. Affiliations
 ---------------
@@ -132,8 +131,8 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 |
 
-References
-==========
+.. image:: /_static/pic_head_front_refernces.png
+   :alt: Current/Present address
 
 6. Author List (valid for all journals)
 ---------------------------------------
