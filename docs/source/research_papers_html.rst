@@ -153,9 +153,10 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 
 6.1. Check that author names in the List of Authors are in-line with the following format:
+
 .. raw:: html  
   
-  <div style="font:normal 400 14px Arial;">Testing</div>
+  <div style="font:bold 16px Courier;">Testing</div>
 
 
 
