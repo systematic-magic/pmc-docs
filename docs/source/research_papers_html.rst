@@ -10,7 +10,7 @@ HTML: All Papers (except Editorials and News)
 1.1. Check title spelling.
 
 1.2. Check that following Latin terms are written in italics: *in vivo*, *in vitro*, *in utero*, *in situ*.
- For other Latin terms either italics or plain text is acceptable.
+For other Latin terms either italics or plain text is acceptable.
 
 |
 .. image:: /_static/pic_head_front_matter.png
@@ -31,7 +31,7 @@ HTML: All Papers (except Editorials and News)
 
 2.4. Check that country and city names are NOT written in ALL CAPS (capital letters)
 
-2.5. Check that “Current\Present address” has a separate affiliation number & is followed by colon (:). One address - one affiliation number. 
+2.5. Occasionally affiliations can contain “Current\Present address” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
@@ -44,13 +44,13 @@ All acceptable combinations of “Current/Present address” are depicted on the
    :alt: Affiliation format
 
 
-|2.7. Check that each affiliation number has only one complete affiliation. 
-|One affiliation – one number.
+2.7. Check that each affiliation number has only one complete affiliation. 
+One affiliation – one number.
 
 2.8. Check that first word of Author Notes starts with a capital letter.
 
-|2.9. Check that Author Notes are preceded by a symbol (or group of symbols). 
-|Most used symbols: \*, †, +, #, $,**,*** \
+2.9. Check that Author Notes are preceded by a symbol (or group of symbols). 
+Most used symbols are: \*, †, +, #, $,**,*** \
 
 .. image:: /_static/pic3_author_notes.png
    :alt: Author Notes
