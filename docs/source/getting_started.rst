@@ -16,6 +16,10 @@ Below we will show you how to know to which group the article in questions belon
 
 2. Take a look at TOC Section Title (see screenshot below). 
 
+.. image:: /_static/pic1_getting_started_toc_section.png
+   :alt: TOC Section Title
+
+
 - If you see there "News" or "Editorials", then go here to check review instructions.
 
 - If you see there something else (NOT "News" or "Editorials"), then go here.
