@@ -152,15 +152,15 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
    This section contains checks which are applicable to the references to all journals (including in-house ones).
 
 
-6.1. Check that author names in the List of Authors are in-line with the following format:
+
 
 .. raw:: html  
-  
-  <div style="font:bold 16px Courier;">Testing</div>
+  <div>6.1. Check that author names in the List of Authors are in-line with the following format:</div>
+  <div style="font:bold 20px Helvetica;">LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)</div>
 
 
 
-LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
+
 
 .. image:: /_static/pic9_author_name_format.png
    :alt: Author Names format
