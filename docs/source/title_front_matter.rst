@@ -2,8 +2,8 @@
 HTML
 ####
 
-Title, Front Matter and References
-==================================
+.. rubric:: Title, Front Matter and References
+
 
 .. _title_html_research_papers:
 
