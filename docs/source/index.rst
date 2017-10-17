@@ -4,9 +4,9 @@ Welcome to PMC Corrections documentation!
 
 The purpose of this document is to provide simple, but detailed guide to the realm of PMC corrections.
 
-We suggest starting with `"Getting Started"` page and work through the rest of the pages step by step.
+We suggest starting with "Getting started" page and work through the rest of the pages step by step.
 
-Happy hunting!
+Happy hunting! 
 
 
 .. toctree::
