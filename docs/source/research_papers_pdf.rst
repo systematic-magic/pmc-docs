@@ -22,6 +22,9 @@ LastName_of_FirstAuthor et al. This is an open-access article distributed under 
 .. image:: /_static/pic_pdf_copyright.png
    :alt: Copyright string
 
+.. ATTENTION::
+   	`Gonzales Suares` is a compound surname. Please make sure that full surname is listed in the Copyright string, rahter than the last bit.
+
 2.3. Check that there is et al. after LastName_of_FirstAuthor.
 
 2.4. Check that License text exactly matches the following: |br|
