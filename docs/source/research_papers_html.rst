@@ -264,7 +264,7 @@ Check whether those references were moved from Advance Publications section to t
 
 |
 
-|div_center_start| Next steps: :ref:`check PDF<pdf_research_papers>`.|div_end|
+|div_center_start| Next steps: :ref:`check PDF<pdf_research_papers>`. |div_end|
 
 
 .. |br| raw:: html
