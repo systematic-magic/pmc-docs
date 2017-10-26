@@ -254,7 +254,7 @@ Check whether those references were moved from Advance Publications section to t
 
 - If full citation-data is not present on article page, then leave references as it is. No action is necessary.
 
-.. image:: /_static/pic20_cit_dat_corrections_2.png
+.. image:: /_static/pic17_cit_dat_ahead_of_print.png
    :alt: Ahead of print corrections
 
 - If full citation-data is present, then suggest correction to include full citation-data to the reference.
@@ -264,7 +264,8 @@ Check whether those references were moved from Advance Publications section to t
 
 |
 
-|div_center_start| Get me to :ref:`PDF checks<research_papers_pdf>`! |div_end|
+|div_center_start| |div_end|
+Get me to :ref:`PDF checks<research_papers_pdf>`! 
 
 .. |br| raw:: html
 
