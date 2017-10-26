@@ -38,7 +38,7 @@ LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 
 - LastName can be a mononym (i.e. have no initials): `Baoluri, Wurenqimuge, Agudam`. Check all mononyms to be “true” mononyms (check PubMed site)
 
-- LastName can have suffixes. Check that suffix is separated from initials by space: `Rowland KM Jr, Short GF 3d`
+- LastName can have suffixes. Check that suffix is separated from initials by space: |br| `Rowland KM Jr, Short GF 3d`
 
 2.4. Check that journal citation-data has the following elements in this order: |br|
 JournalTitle. year; volume: pages. DOI.
