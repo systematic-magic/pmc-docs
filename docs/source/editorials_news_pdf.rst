@@ -16,7 +16,8 @@ PDF: Editorials and News only
 2.1. Check that title of in-house journal is written correctly: 
 Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
-2.2. Check that there is only one author name in reference followed by comma (,) et al and dot (.)
+2.2. Check that there is only one author name in reference. |br|
+If there paper was written by sigle auther, then autor name should be followed by dot (.) In case there are many authors for the paper, then single author should be followed by comma (,) et al and dot (.)
 
 
 .. image:: /_static/pic1_editor_auth_format.png

@@ -23,7 +23,7 @@ LastName_of_FirstAuthor et al. This is an open-access article distributed under 
    :alt: Copyright string
 
 .. ATTENTION::
-   	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright string, rahter than the last bit.
+   	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright string, rahter than just last bit.
 
 2.3. Check that there is et al. after LastName_of_FirstAuthor.
 
