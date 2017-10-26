@@ -263,9 +263,17 @@ Check whether those references were moved from Advance Publications section to t
    :alt: Ahead of print corrections
 
 |
-.. class:: center
-  Get me to :ref:`PDF checks<research_papers_pdf>`!
+
+|div_center_start| Get me to :ref:`PDF checks<research_papers_pdf>`! |div_end|
 
 .. |br| raw:: html
 
    <br />
+
+.. |div_center_start| raw:: html
+
+   <div style="text-align:center">
+
+.. |div_end| raw:: html
+   
+   </div>
