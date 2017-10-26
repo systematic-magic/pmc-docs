@@ -208,7 +208,7 @@ LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 7.1. Check that title of in-house journal is written correctly: 
 Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
-7.2.Check that journal citation-data has the following elements in this order:
+7.2.Check that journal citation-data has the following elements in this order: |br|
 |div_format_start| JournalTitle. year; volume: pages. DOI. |span_end|
 
 .. image:: /_static/pic16_citaiton_data.png
@@ -281,8 +281,8 @@ Check whether those references were moved from Advance Publications section to t
 
 .. |div_format_start| raw:: html
    
-   <span style='font: bold "Source Code Pro", sans-serif;'>
+   <div style='font: bold "Source Code Pro", sans-serif;'>
 
 .. |span_end| raw:: html
    
-   </span>
+   </div>
