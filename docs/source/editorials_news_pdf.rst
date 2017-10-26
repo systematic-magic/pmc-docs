@@ -28,17 +28,17 @@ In case there were many authors for the paper, then one author name should be fo
 2.3.	Check that author names in the references have the following format: |br|
 LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 
-- Check that initials have no more than 3 letters and have NO spaces or hyphens in-between: Rumi B, Jutten BC, Loo SCJ
+- Check that initials have no more than 3 letters and have NO spaces or hyphens in-between: `Rumi B, Jutten BC, Loo SCJ`
 
-- LastName can include name-related prepositions starting with either upper- or lowercase letter: van der Ent FW, Van den Brandt PA
+- LastName can include name-related prepositions starting with either upper- or lowercase letter: `van der Ent FW, Van den Brandt PA`
 
-- LastName can be compound and separated by hyphen or space: Garcia-Closas M, Gomes Jimenes FJ
+- LastName can be compound and separated by hyphen or space: `Garcia-Closas M, Gomes Jimenes FJ`
 
-- LastName can have prefixes: McCann MH, O’Kelly M
+- LastName can have prefixes: `McCann MH, O’Kelly M`
 
-- LastName can be a mononym (i.e. have no initials): Baoluri, Wurenqimuge, Agudam. Check all mononyms to be “true” mononyms (check PubMed site)
+- LastName can be a mononym (i.e. have no initials): `Baoluri, Wurenqimuge, Agudam`. Check all mononyms to be “true” mononyms (check PubMed site)
 
-- LastName can have suffixes. Check that suffix is separated from initials by space: Rowland KM Jr, Short GF 3d
+- LastName can have suffixes. Check that suffix is separated from initials by space: `Rowland KM Jr, Short GF 3d`
 
 2.4. Check that journal citation-data has the following elements in this order: |br|
 JournalTitle. year; volume: pages. DOI.
@@ -63,13 +63,13 @@ JournalTitle. year; volume: pages. DOI.
 - Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
 
 
-- Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed.
+- Page number range can be written either in full (`12063-12074`) or in shorten format (`12063-74`). Both formats are allowed.
 
 
 - DOI is mandatory only for in-house journals and optional for the rest.
 
 
-- Both DOI formats (with https:// or without) are allowed. Dot (.) is not mandatory at the end of DOI.
+- Both DOI formats (`https://` or `doi:`) are allowed. Dot (.) is not mandatory at the end of DOI.
 
 
 .. |br| raw:: html
