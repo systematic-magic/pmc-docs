@@ -6,7 +6,7 @@ The purpose of this document is to provide simple, but detailed guide to the rea
 
 We suggest starting with :ref:`"Getting started"<getting_started>` page and working your way through the rest of the pages step by step.
 
-Happy hunting! :-)
+Happy hunting!
 
 
 .. toctree::

@@ -50,7 +50,7 @@ One affiliation – one number.
 2.8. Check that first word of Author Notes starts with a capital letter.
 
 2.9. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
-Most used symbols are: \*, †, +, #, $,**,*** \
+Most used symbols are: \*, †, +, #, $, **, *** \
 
 .. image:: /_static/pic3_author_notes.png
    :alt: Author Notes
@@ -61,7 +61,7 @@ Most used symbols are: \*, †, +, #, $,**,*** \
 3. Correspondence
 -----------------
 
-3.1. Check that correspondence section has a title “Correspondence:” (starts with capital letter and followed by colon (:))
+3.1. Check that correspondence section has a title “Correspondence to:” (starts with capital letter and followed by colon (:))
 
 3.2. There can be one or more correspondence lines in this section. Check that correspondence line format is in-line with one on the screenshot below:
 
@@ -88,7 +88,6 @@ Most used symbols are: \*, †, +, #, $,**,*** \
 4.2. Check that keywords are separated either by , (comma) or by ; (semicolon) and two styles are not mixed
 
 .. image:: /_static/pic6_keywords_separ.png
-   :target: ../../_static/pic6_keywords_separ.png
    :alt: Keywords
 
 4.3. Check that article (except for Special Section articles - see below) has at least 1 and not more than 5 keywords
@@ -183,7 +182,7 @@ LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
 
 6.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
-6.9. If Group Authorship follows List of Authors, check whether it is separated either by comma (,) or semicolon (;). Group Authorship is not counted as author and is not part of List of Authors quota.
+6.9. If Group Authorship follows List of Authors, check whether it is separated either by comma (,) or semicolon (;). Group Authorship is not counted against total number of authors in the author quota.
 
 
 .. image:: /_static/pic12_group_authorship1.png
@@ -227,23 +226,23 @@ JournalTitle. year; volume: pages. DOI.
 
 - Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed.
 
-- Both DOI formats (with https:// or without) are allowed. Dot (.) at the end of DOI is optional.
+- Both DOI formats (https:// or doi:) are allowed. Dot (.) at the end of DOI is optional.
 
 7.3. Check that all elements of citation-data are present.
 
-7.4. Check that DOI is present. If DOI is missing, then suggest correction to include DOI in the format which is used for other references of the article. Mixing up of DOI formats is not allowed.
+7.4. Check that DOI is present. If DOI is missing, then suggest correction to include DOI in the format which is used for other references of the article. Mixing DOI formats is not allowed.
 
 7.5. Check that DOI is complete (resolve, if in doubt) and does not contain spaces.
 
 7.6. Check that citation-data does not contain other elements (i.e. issue number, [pii], [internet])
 
-7.7. There can be references to the articles in Advanced Publications (ahead of print). They can be distinguished by having full date instead of year and/or having [Epub ahead of print] note. 
+7.7. There can be references to the articles in Advance Publications (ahead of print). They can be distinguished by having full date instead of year and/or having [Epub ahead of print] note. 
 
 
 .. image:: /_static/pic17_cit_dat_ahead_of_print.png
    :alt: Ahead of Print
 
-Check whether those references were moved from Advanced Publications section to the specific issue and have full-citation data available.
+Check whether those references were moved from Advance Publications section to the specific issue and have full-citation data available.
 
 - Go to corresponding article page on Oncotarget site (either use search or resolve DOI)
 
@@ -255,11 +254,17 @@ Check whether those references were moved from Advanced Publications section to 
 
 - If full citation-data is not present on article page, then leave references as it is. No action is necessary.
 
+.. image:: /_static/pic20_cit_dat_corrections_2.png
+   :alt: Ahead of print corrections
+
 - If full citation-data is present, then suggest correction to include full citation-data to the reference.
 
 .. image:: /_static/pic19_cit_dat_corrections.png
    :alt: Ahead of print corrections
-   
+
+|
+.. class:: center
+  Get me to :ref:`PDF checks<research_papers_pdf>`!
 
 .. |br| raw:: html
 
