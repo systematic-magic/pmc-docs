@@ -151,7 +151,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
    This section contains checks which are applicable to the references to all journals (including in-house ones).
 
 6.1. Check that author names in the List of Authors are in-line with the following format: |br|
-LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th)
+|span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
 .. image:: /_static/pic9_author_name_format.png
@@ -281,7 +281,7 @@ Check whether those references were moved from Advance Publications section to t
 
 .. |span_format_start| raw:: html
    
-   <span style='font-family:"Source Code Pro", sans-serif; font-weight: bold; text-align:center'>
+   <span style='font-family:"Source Code Pro", sans-serif; font-weight: bold; text-align:center;'>
 
 .. |span_end| raw:: html
    
