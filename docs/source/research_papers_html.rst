@@ -264,10 +264,8 @@ Check whether those references were moved from Advance Publications section to t
 
 |
 
-|div_center_start| |div_end|
-Get me to :ref:`PDF checks<research_papers_pdf>`! 
-:ref:`All papers (except Editorials and News)<title_research_papers>`
-:ref:`Editorials and News<title_editorials_news>`
+|div_center_start| Get me to :ref:`PDF checks<pdf_research_papers:>`! |div_end|
+
 
 .. |br| raw:: html
 
