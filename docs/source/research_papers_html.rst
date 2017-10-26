@@ -281,7 +281,7 @@ Check whether those references were moved from Advance Publications section to t
 
 .. |div_format_start| raw:: html
    
-   <div style='font: bold "Source Code Pro", sans-serif;'>
+   <div style='font: bold Georgia, serif;'>
 
 .. |span_end| raw:: html
    
