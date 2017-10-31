@@ -17,9 +17,8 @@ PDF: Editorials and News only
 Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
 2.2. Check that there is only one author name in reference. |br|
-If the paper was written by sigle author, then autor name should be followed by dot (.) |br|
-In case there were many authors for the paper, then one author name should be followed by comma (,) et al and dot (.)
-
+Author name should be either followed by dot (.) or |br|
+by comma (,) `et al` and dot (.)
 
 .. image:: /_static/pic1_editor_auth_format.png
    :alt: Editorials Author format
