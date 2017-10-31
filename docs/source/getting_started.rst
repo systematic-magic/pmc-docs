@@ -14,7 +14,7 @@ Below we will show you how to know the group article belongs to:
 
 1. Get to the article page.
 
-- Go to `Oncotarget site_`.
+- Go to `Oncotarget site`_.
 
 - Click on "Current Issue" in the left hand side menu
 
