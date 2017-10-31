@@ -23,8 +23,7 @@ Below we will show you how to know the group article belongs to:
 .. image:: /_static/pic2_getting_started_HTML_link.png
    :alt: HTML link
 
-- Once you clicked on HTML, you see article URL in the browser address bar (see screenshot below).
-Locate "view&path%5B%5D=" part of URL and replace the number for PII you are going to review. Hit `Enter`.
+- Once you clicked on HTML, you see article URL in the browser address bar (see screenshot below). Locate "view&path%5B%5D=" part of URL and replace the number for PII you are going to review. Hit `Enter`.
 
 .. image:: /_static/pic3_getting_started_PII_replace.png
    :alt: PII to replace
@@ -33,8 +32,8 @@ Locate "view&path%5B%5D=" part of URL and replace the number for PII you are goi
 
 .. image:: /_static/pic4_getting_started_pii_html.png
    :alt: PII HTML
-
-
+   
+|br|
 
 2. Take a look at TOC Section Title (see screenshot below). 
 
