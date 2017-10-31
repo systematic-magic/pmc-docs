@@ -13,6 +13,7 @@ The scope of checks varies greatly between these two groups. And therefore, it i
 Below we will show you how to know the group article belongs to:
 
 1. Get to the article page.
+- Go to :ref:`www.oncotarget.com`<oncotarget>
 
 2. Take a look at TOC Section Title (see screenshot below). 
 
@@ -25,3 +26,5 @@ Below we will show you how to know the group article belongs to:
 - If you see there something else (NOT "News" or "Editorials"), then go :ref:`here<title_research_papers>`.
 |
 |
+
+.. _oncotarget: http://www.oncotarget.com
