@@ -13,7 +13,7 @@ The scope of checks varies greatly between these two groups. And therefore, it i
 Below we will show you how to know the group article belongs to:
 
 1. Get to the article page.
-- Go to :ref:`www.oncotarget.com`<oncotarget>
+- Go to :ref:`www.oncotarget.com<_oncotarget>`
 
 2. Take a look at TOC Section Title (see screenshot below). 
 
