@@ -13,8 +13,11 @@ The scope of checks varies greatly between these two groups. And therefore, it i
 Below we will show you how to know the group article belongs to:
 
 1. Get to the article page.
-- Go to :ref:`www.oncotarget.com<oncotarget_>`
+
+- Go to :ref:`www.oncotarget.com<oncotarget>`
+
 - Click on "Current Issue" in the left hand side menu
+
 - Locate any article having a link to HTML (see screenshot below). Click on HTML link.
 
 .. image:: /_static/pic2_getting_started_HTML_link.png
