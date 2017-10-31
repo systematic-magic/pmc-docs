@@ -17,7 +17,7 @@ PDF: Editorials and News only
 Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
 2.2. Check that there is only one author name in reference. |br|
-Author name should be either followed by dot (.) or |br|
+Author name should be either followed by dot (.) or
 by comma (,) `et al` and dot (.)
 
 .. image:: /_static/pic1_editor_auth_format.png
@@ -26,16 +26,16 @@ by comma (,) `et al` and dot (.)
 
 2.3.	Check that author names in the references have the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
-
+ 
 - Check that initials have no more than 3 letters and have NO spaces or hyphens in-between: `Rumi B, Jutten BC, Loo SCJ`
 
 - LastName can include name-related prepositions starting with either upper- or lowercase letter: `van der Ent FW, Van den Brandt PA`
 
-- LastName can be compound and separated by hyphen or space: `Garcia-Closas M, Gomes Jimenes FJ`
+- LastName can be compound and separated by hyphen or space: |br| `Garcia-Closas M, Gomes Jimenes FJ`
 
 - LastName can have prefixes: `McCann MH, O’Kelly M`
 
-- LastName can be a mononym (i.e. have no initials): `Baoluri, Wurenqimuge, Agudam`. Check all mononyms to be “true” mononyms (check PubMed site)
+- LastName can be a mononym (i.e. have no initials): `Baoluri, Wurenqimuge, Agudam`. |br| Check all mononyms to be “true” mononyms (check PubMed site)
 
 - LastName can have suffixes. Check that suffix is separated from initials by space: |br| `Rowland KM Jr, Short GF 3d`
 
