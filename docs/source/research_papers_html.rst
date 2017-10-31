@@ -255,7 +255,7 @@ Check whether those references were moved from Advance Publications section to t
 .. image:: /_static/pic19_cit_dat_corrections.png
    :alt: Ahead of print corrections
 
-*OR*
+**OR**
 
 .. image:: /_static/pic20_cit_dat_no_full_cit_data.png
    :alt: Check the original article
