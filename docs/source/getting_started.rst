@@ -14,7 +14,7 @@ Below we will show you how to know the group article belongs to:
 
 1. Get to the article page.
 
-- Go to :ref:`www.oncotarget.com<oncotarget>`
+- Go to `Oncotarget site_`.
 
 - Click on "Current Issue" in the left hand side menu
 
@@ -47,4 +47,4 @@ Below we will show you how to know the group article belongs to:
 |
 |
 
-.. _oncotarget: http://www.oncotarget.com
+.. _Oncotarget site: http://www.oncotarget.com
