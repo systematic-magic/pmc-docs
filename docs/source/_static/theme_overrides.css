@@ -2,6 +2,10 @@
    background-color: #751217;
 }
 
-.caption-text {
+span.caption-text {
+	color: #751217;
+}
+
+p.caption {
 	color: #751217;
 }
