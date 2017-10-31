@@ -31,21 +31,20 @@ For other Latin terms either italics or plain text is acceptable.
 
 2.4. Check that country and city names are NOT written in ALL CAPS (capital letters)
 
-2.5. Occasionally affiliations can contain “Current/Present address” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
+2.5. Check that each affiliation number has only one complete affiliation. |br|
+One affiliation – one number.
+
+2.6. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
 .. image:: /_static/pic1_curr_pres_address.png
    :alt: Current/Present address
 
-2.6. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+2.7. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/pic2_aff_format.png
    :alt: Affiliation format
-
-
-2.7. Check that each affiliation number has only one complete affiliation. |br|
-One affiliation – one number.
 
 2.8. Check that first word of Author Notes starts with a capital letter.
 
@@ -251,16 +250,21 @@ Check whether those references were moved from Advance Publications section to t
 .. image:: /_static/pic18_cit_dat_check.png
    :alt: Check the original article
 
+- If full citation-data is present, then suggest correction to include full citation-data to the reference.
+
+.. image:: /_static/pic19_cit_dat_corrections.png
+   :alt: Ahead of print corrections
+
+*OR*
+
+.. image:: /_static/pic20_cit_dat_no_full_cit_data.png
+   :alt: Check the original article
 
 - If full citation-data is not present on article page, then leave references as it is. No action is necessary.
 
 .. image:: /_static/pic17_cit_dat_ahead_of_print.png
    :alt: Ahead of print corrections
 
-- If full citation-data is present, then suggest correction to include full citation-data to the reference.
-
-.. image:: /_static/pic19_cit_dat_corrections.png
-   :alt: Ahead of print corrections
 
 |
 
