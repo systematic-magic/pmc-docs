@@ -32,8 +32,8 @@ Below we will show you how to know the group article belongs to:
 
 .. image:: /_static/pic4_getting_started_pii_html.png
    :alt: PII HTML
-   
-|br|
+
+ |br| 
 
 2. Take a look at TOC Section Title (see screenshot below). 
 
