@@ -17,8 +17,21 @@ Below we will show you how to know the group article belongs to:
 - Click on "Current Issue" in the left hand side menu
 - Locate any article having a link to HTML (see screenshot below). Click on HTML link.
 
+.. image:: /_static/pic2_getting_started_HTML_link.png
+   :alt: HTML link
+
 - Once you clicked on HTML, you see article URL in the browser address bar (see screenshot below).
-Locate ""
+Locate "view&path%5B%5D=" part of URL and replace the number for PII you are going to review. Hit `Enter`.
+
+.. image:: /_static/pic3_getting_started_PII_replace.png
+   :alt: PII to replace
+
+- On the article page click on HTML link. You will get to article HTML page.
+
+.. image:: /_static/pic4_getting_started_pii_html.png
+   :alt: PII HTML
+
+
 
 2. Take a look at TOC Section Title (see screenshot below). 
 
