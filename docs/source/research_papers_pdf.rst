@@ -9,17 +9,17 @@ PDF: All Papers (except Editorials and News)
 
 1.1. Check tat PDF Header Slug contains Oncotarget, year, volume, issue and page numbers.
 
-.. image:: /_static/pic_pdf2_header_slug.png
+.. image:: /_static/pic2_pdf_header_slug.png
    :alt: Header Slug
 
-.. image:: /_static/pic_pdf2_header_slu_incorrect.png
+.. image:: /_static/pic3_pdf_header_slug_incorrect.png
    :alt: Header Slug
 
 2. Page numbers
 ---------------
 2.1. Check page numbers at the bottom of the page. Page numbers should be the same as in PDF Header Slug.
 
-.. image:: /_static/pic_pdf2_page_numbers.png
+.. image:: /_static/pic4_pdf_page_numbers.png
    :alt: Page Numbers
 
 3. Article Title
