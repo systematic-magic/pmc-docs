@@ -235,7 +235,7 @@ Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
 7.6. Check that citation-data does not contain other elements (i.e. issue number, [pii], [internet])
 
-7.7. There can be references to the articles in Advance Publications (ahead of print). They can be distinguished by having full date instead of year and/or having [Epub ahead of print] note. 
+7.7. There can be references to the articles in Advance Publications (ahead of print). They can be distinguished by having full date (2016 Jul 19) instead of year and/or having [Epub ahead of print] note (see image below). 
 
 
 .. image:: /_static/pic17_cit_dat_ahead_of_print.png
