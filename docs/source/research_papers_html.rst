@@ -54,6 +54,12 @@ Most used symbols are: \*, †, +, #, $, **, *** \
 .. image:: /_static/pic3_author_notes.png
    :alt: Author Notes
 
+2.10. Check that Author Notes symbol is linked to author(s) in the author list. 
+
+.. image:: /_static/pic21_author_notes_symbol.png
+   :alt: Author Notes Symbol
+
+
 |
 .. _correspondece_research_papers:
 
