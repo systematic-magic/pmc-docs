@@ -49,7 +49,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 2.8. Check that first word of Author Notes starts with a capital letter.
 
 2.9. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
-Most used symbols are: \*, †, +, #, $, **, *** \
+Most used symbols are: \*, †, +, #, $, \*\*, \*\*\*
 
 .. image:: /_static/pic3_author_notes.png
    :alt: Author Notes
