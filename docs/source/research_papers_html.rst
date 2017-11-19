@@ -158,7 +158,7 @@ Here are exmple of call outs: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]
 
 6.2. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference)
 
-
+|
 
 7. Author List (applicable to all journals)
 --------------------------------------------
