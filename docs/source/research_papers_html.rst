@@ -147,26 +147,37 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
    :height: 82px
    :width: 312px
    :scale: 50%
-   
 
-6. Author List (applicable to all journals)
+6. Callouts
+-----------
+6.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by hyphen, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
+Here are exmple of call outs: [1] [2,3,4] [5-7] [1, 3, 7, 8-10]
+
+.. image:: /_static/pic22_callouts.png
+   :alt: Callouts
+
+6.2. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference)
+
+
+
+7. Author List (applicable to all journals)
 --------------------------------------------
 
 .. IMPORTANT::
    This section contains checks which are applicable to the references to all journals (including in-house ones).
 
-6.1. Check that author names in the List of Authors are in-line with the following format: |br|
+7.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
 .. image:: /_static/pic9_author_name_format.png
    :alt: Author Names format
 
-6.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
+7.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
 
-6.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
+7.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
 
-6.4. Check that List of Authors contains no more than either:
+7.4. Check that List of Authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
@@ -179,15 +190,15 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 .. image:: /_static/pic11_author_etal_number.png
    :alt: Max number of authors followed by et al
 
-6.5. Check that authors are separated by comma (,) followed by space.
+7.5. Check that authors are separated by comma (,) followed by space.
 
-6.6. Check that et al is separated from List of Authors by comma (,)
+7.6. Check that et al is separated from List of Authors by comma (,)
 
-6.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
+7.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
 
-6.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
+7.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
-6.9. If Group Authorship follows List of Authors, check whether it is separated either by comma (,) or semicolon (;). Group Authorship is not counted against total number of authors in the author quota.
+7.9. If Group Authorship follows List of Authors, check whether it is separated either by comma (,) or semicolon (;). Group Authorship is not counted against total number of authors in the author quota.
 
 
 .. image:: /_static/pic12_group_authorship1.png
@@ -203,17 +214,17 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
    :alt: Group Authorship
 
 |
-7. Citation-Data (in-house journals ONLY)
+8. Citation-Data (in-house journals ONLY)
 -----------------------------------------
 .. IMPORTANT::
    This section is applicable ONLY to the references to in-house journals:
    Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
 
-7.1. Check that title of in-house journal is written correctly: 
+8.1. Check that title of in-house journal is written correctly: 
 Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
-7.2.Check that journal citation-data has the following elements in this order: |br|
+8.2.Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI. |span_end|
 
 .. image:: /_static/pic16_citaiton_data.png
@@ -233,15 +244,15 @@ Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
 
 - Both DOI formats (https:// or doi:) are allowed. Dot (.) at the end of DOI is optional.
 
-7.3. Check that all elements of citation-data are present.
+8.3. Check that all elements of citation-data are present.
 
-7.4. Check that DOI is present. If DOI is missing, then suggest correction to include DOI in the format which is used for other references of the article. Mixing DOI formats is not allowed.
+8.4. Check that DOI is present. If DOI is missing, then suggest correction to include DOI in the format which is used for other references of the article. Mixing DOI formats is not allowed.
 
-7.5. Check that DOI is complete (resolve, if in doubt) and does not contain spaces.
+8.5. Check that DOI is complete (resolve, if in doubt) and does not contain spaces.
 
-7.6. Check that citation-data does not contain other elements (i.e. issue number, [pii], [internet])
+8.6. Check that citation-data does not contain other elements (i.e. issue number, [pii], [internet])
 
-7.7. There can be references to the articles in Advance Publications (ahead of print). They can be distinguished by having full date (2016 Jul 19) instead of year and/or having [Epub ahead of print] note (see image below). 
+8.7. There can be references to the articles in Advance Publications (ahead of print). They can be distinguished by having full date (2016 Jul 19) instead of year and/or having [Epub ahead of print] note (see image below). 
 
 
 .. image:: /_static/pic17_cit_dat_ahead_of_print.png
