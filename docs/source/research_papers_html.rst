@@ -142,12 +142,6 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 
 |
 
-.. image:: /_static/pic_head_front_refernces.png
-   :alt: References
-   :height: 82px
-   :width: 312px
-   :scale: 50%
-
 6. Callouts
 -----------
 6.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by hyphen, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
@@ -159,6 +153,12 @@ Here are exmple of call outs: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]
 6.2. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference)
 
 |
+
+.. image:: /_static/pic_head_front_refernces.png
+   :alt: References
+   :height: 82px
+   :width: 312px
+   :scale: 50%
 
 7. Author List (applicable to all journals)
 --------------------------------------------
