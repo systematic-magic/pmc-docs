@@ -134,7 +134,7 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 5.3. Check spelling of the month
 
 .. image:: /_static/pic8_dates_format.png
-   :alt: Dates format
+   :alt: Dates format 
 
 .. note:: We no longer check Published date. It should be left blank. However, if you see date there, please ignore it.
 
